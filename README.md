@@ -1,4 +1,4 @@
-# Imagine-Dragons-NLP
+# Imagine-Dragons- Sentiment Analysis - NLP
 This project is based in Nicolas Garcia [work](https://www.linkedin.com/posts/nicolas-garcia-aramouni_tableau-nltk-sentimentanalysis-activity-6888966379899240448-TwHD?utm_source=combined_share_message&utm_medium=member_desktop). 
 
 Sentiment analysis of Imagine Dragons songs. 
